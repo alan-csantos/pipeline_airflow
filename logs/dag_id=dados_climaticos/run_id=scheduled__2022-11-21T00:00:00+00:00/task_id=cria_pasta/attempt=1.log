@@ -1,0 +1,16 @@
+[2023-08-17T19:55:35.398-0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dados_climaticos.cria_pasta scheduled__2022-11-21T00:00:00+00:00 [queued]>
+[2023-08-17T19:55:35.408-0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dados_climaticos.cria_pasta scheduled__2022-11-21T00:00:00+00:00 [queued]>
+[2023-08-17T19:55:35.408-0300] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-17T19:55:35.504-0300] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): cria_pasta> on 2022-11-21 00:00:00+00:00
+[2023-08-17T19:55:35.511-0300] {standard_task_runner.py:57} INFO - Started process 17121 to run task
+[2023-08-17T19:55:35.516-0300] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'dados_climaticos', 'cria_pasta', 'scheduled__2022-11-21T00:00:00+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/dados_climaticos.py', '--cfg-path', '/tmp/tmpuy1u7d02']
+[2023-08-17T19:55:35.517-0300] {standard_task_runner.py:85} INFO - Job 35: Subtask cria_pasta
+[2023-08-17T19:55:35.663-0300] {task_command.py:410} INFO - Running <TaskInstance: dados_climaticos.cria_pasta scheduled__2022-11-21T00:00:00+00:00 [running]> on host alan-pc
+[2023-08-17T19:55:35.892-0300] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='dados_climaticos' AIRFLOW_CTX_TASK_ID='cria_pasta' AIRFLOW_CTX_EXECUTION_DATE='2022-11-21T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-11-21T00:00:00+00:00'
+[2023-08-17T19:55:35.896-0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-17T19:55:35.896-0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'mkdir -p "/home/alan/repos/pipeline_airflow/semana=2022-11-28"']
+[2023-08-17T19:55:35.912-0300] {subprocess.py:86} INFO - Output:
+[2023-08-17T19:55:35.917-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-08-17T19:55:36.016-0300] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=dados_climaticos, task_id=cria_pasta, execution_date=20221121T000000, start_date=20230817T225535, end_date=20230817T225536
+[2023-08-17T19:55:36.129-0300] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-08-17T19:55:36.163-0300] {taskinstance.py:2653} INFO - 1 downstream tasks scheduled from follow-on schedule check

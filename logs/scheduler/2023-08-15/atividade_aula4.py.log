@@ -1,0 +1,221 @@
+[2023-08-15T18:53:58.758-0300] {processor.py:157} INFO - Started process (PID=26074) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:53:58.763-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T18:53:58.765-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:58.764-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:53:58.790-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:53:59.157-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.156-0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:atividade_aula4
+[2023-08-15T18:53:59.267-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.267-0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:atividade_aula4
+[2023-08-15T18:53:59.366-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.365-0300] {manager.py:504} INFO - Created Permission View: can read on DAG:atividade_aula4
+[2023-08-15T18:53:59.390-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.390-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T18:53:59.418-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.417-0300] {dag.py:2763} INFO - Creating ORM DAG for atividade_aula4
+[2023-08-15T18:53:59.439-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:53:59.439-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T18:53:59.564-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.812 seconds
+[2023-08-15T18:55:10.956-0300] {processor.py:157} INFO - Started process (PID=26529) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:55:11.010-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T18:55:11.013-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:55:11.012-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:55:11.077-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:55:11.101-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:55:11.101-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T18:55:11.141-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:55:11.141-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T18:55:13.086-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 2.137 seconds
+[2023-08-15T18:57:18.017-0300] {processor.py:157} INFO - Started process (PID=26965) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:57:18.082-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T18:57:18.083-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:57:18.083-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:57:18.153-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T18:57:18.388-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:57:18.387-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T18:57:18.439-0300] {logging_mixin.py:150} INFO - [2023-08-15T18:57:18.438-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T18:57:19.695-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 1.684 seconds
+[2023-08-15T19:00:49.960-0300] {processor.py:157} INFO - Started process (PID=27438) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:00:50.113-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:00:50.115-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:00:50.114-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:00:50.261-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:00:50.393-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:00:50.392-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:00:50.454-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:00:50.453-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T19:00:51.367-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 1.413 seconds
+[2023-08-15T19:02:28.177-0300] {processor.py:157} INFO - Started process (PID=27714) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:02:28.259-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:02:28.262-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:02:28.261-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:02:28.313-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:02:28.347-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:02:28.347-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:02:28.390-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:02:28.389-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T19:02:28.731-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.560 seconds
+[2023-08-15T19:03:48.235-0300] {processor.py:157} INFO - Started process (PID=28136) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:03:48.262-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:03:48.263-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:03:48.263-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:03:48.282-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:03:48.316-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:03:48.316-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:03:48.415-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:03:48.414-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T19:03:48.548-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.318 seconds
+[2023-08-15T19:04:36.433-0300] {processor.py:157} INFO - Started process (PID=28328) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:04:36.435-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:04:36.436-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:04:36.435-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:04:36.452-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:04:36.479-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:04:36.478-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:04:36.516-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:04:36.516-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-14T00:00:00+00:00, run_after=2023-08-15T00:00:00+00:00
+[2023-08-15T19:04:36.613-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.187 seconds
+[2023-08-15T19:05:22.159-0300] {processor.py:157} INFO - Started process (PID=28566) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:05:22.161-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:05:22.163-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:05:22.163-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:05:22.178-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:05:22.204-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:05:22.204-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:05:22.247-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:05:22.246-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:05:22.371-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.218 seconds
+[2023-08-15T19:06:01.256-0300] {processor.py:157} INFO - Started process (PID=28713) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:01.267-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:06:01.269-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:01.268-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:01.285-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:01.314-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:01.314-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:06:01.356-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:01.356-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:06:01.479-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.228 seconds
+[2023-08-15T19:06:33.468-0300] {processor.py:157} INFO - Started process (PID=28794) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:33.474-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:06:33.477-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:33.476-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:33.492-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:06:33.517-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:33.517-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:06:33.557-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:06:33.557-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:06:33.668-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.207 seconds
+[2023-08-15T19:07:33.484-0300] {processor.py:157} INFO - Started process (PID=28961) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:07:33.502-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:07:33.505-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:07:33.504-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:07:33.524-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:07:33.553-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:07:33.553-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:07:33.592-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:07:33.591-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:07:33.841-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.364 seconds
+[2023-08-15T19:08:08.292-0300] {processor.py:157} INFO - Started process (PID=29149) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:08.307-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:08:08.309-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:08.308-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:08.323-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:08.346-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:08.346-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:08:08.389-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:08.389-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:08:08.496-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.209 seconds
+[2023-08-15T19:08:41.340-0300] {processor.py:157} INFO - Started process (PID=29237) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:41.342-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:08:41.343-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:41.343-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:41.371-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:08:41.415-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:41.414-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:08:41.459-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:08:41.458-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:08:41.792-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.458 seconds
+[2023-08-15T19:09:12.384-0300] {processor.py:157} INFO - Started process (PID=29313) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:09:12.385-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:09:12.387-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:09:12.386-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:09:12.402-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:09:12.429-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:09:12.428-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:09:12.469-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:09:12.468-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:09:12.566-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.188 seconds
+[2023-08-15T19:10:11.604-0300] {processor.py:157} INFO - Started process (PID=29472) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:10:11.616-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:10:11.618-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:10:11.617-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:10:11.638-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:10:11.809-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:10:11.809-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:10:11.845-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:10:11.845-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:10:12.022-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.424 seconds
+[2023-08-15T19:11:09.242-0300] {processor.py:157} INFO - Started process (PID=29655) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:09.257-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:11:09.259-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:09.258-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:09.275-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:09.301-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:09.301-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:11:09.379-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:09.379-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:11:09.543-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.307 seconds
+[2023-08-15T19:11:41.841-0300] {processor.py:157} INFO - Started process (PID=29776) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:41.843-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:11:41.845-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:41.844-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:41.863-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:11:41.888-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:41.888-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:11:41.925-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:11:41.925-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:11:42.034-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.199 seconds
+[2023-08-15T19:12:16.947-0300] {processor.py:157} INFO - Started process (PID=29895) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:16.949-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:12:16.950-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:16.950-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:16.967-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:16.994-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:16.994-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:12:17.039-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:17.039-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:12:17.135-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.193 seconds
+[2023-08-15T19:12:47.815-0300] {processor.py:157} INFO - Started process (PID=29979) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:47.817-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:12:47.818-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:47.818-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:47.834-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:12:47.859-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:47.858-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:12:47.899-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:12:47.899-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:12:48.009-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.200 seconds
+[2023-08-15T19:13:46.275-0300] {processor.py:157} INFO - Started process (PID=30135) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:13:46.282-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:13:46.284-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:13:46.283-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:13:46.303-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:13:46.342-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:13:46.342-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:13:46.395-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:13:46.394-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:13:46.536-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.274 seconds
+[2023-08-15T19:14:17.803-0300] {processor.py:157} INFO - Started process (PID=30214) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:14:17.805-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:14:17.806-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:14:17.805-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:14:17.822-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:14:17.848-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:14:17.847-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:14:17.889-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:14:17.888-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:14:18.002-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.204 seconds
+[2023-08-15T19:15:12.925-0300] {processor.py:157} INFO - Started process (PID=30359) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:15:12.933-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:15:12.934-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:15:12.934-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:15:12.954-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:15:12.993-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:15:12.993-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:15:13.037-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:15:13.037-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:15:13.162-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.246 seconds
+[2023-08-15T19:16:11.597-0300] {processor.py:157} INFO - Started process (PID=30508) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:16:11.598-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:16:11.600-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:16:11.599-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:16:11.617-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:16:11.643-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:16:11.643-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:16:11.693-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:16:11.693-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:16:11.808-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.217 seconds
+[2023-08-15T19:17:10.786-0300] {processor.py:157} INFO - Started process (PID=30673) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:10.800-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:17:10.802-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:10.801-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:10.819-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:10.846-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:10.846-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:17:10.889-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:10.889-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:17:10.985-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.205 seconds
+[2023-08-15T19:17:42.312-0300] {processor.py:157} INFO - Started process (PID=30749) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:42.314-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:17:42.316-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:42.315-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:42.333-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:17:42.359-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:42.359-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:17:42.398-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:17:42.397-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:17:42.501-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.195 seconds
+[2023-08-15T19:18:13.042-0300] {processor.py:157} INFO - Started process (PID=30827) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:18:13.051-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:18:13.053-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:18:13.052-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:18:13.070-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:18:13.098-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:18:13.097-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:18:13.137-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:18:13.136-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:18:13.229-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.193 seconds
+[2023-08-15T19:19:06.923-0300] {processor.py:157} INFO - Started process (PID=30968) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:19:06.925-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:19:06.927-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:19:06.926-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:19:06.947-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:19:06.978-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:19:06.977-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:19:07.021-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:19:07.020-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:19:07.129-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.211 seconds
+[2023-08-15T19:20:05.395-0300] {processor.py:157} INFO - Started process (PID=31118) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:05.397-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:20:05.399-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:05.398-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:05.418-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:05.451-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:05.451-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:20:05.492-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:05.492-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:20:05.650-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.263 seconds
+[2023-08-15T19:20:38.423-0300] {processor.py:157} INFO - Started process (PID=31264) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:38.424-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:20:38.426-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:38.425-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:38.443-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:20:38.469-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:38.469-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:20:38.515-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:20:38.515-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:20:38.639-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.223 seconds
+[2023-08-15T19:21:17.372-0300] {processor.py:157} INFO - Started process (PID=31472) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:17.387-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:21:17.388-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:17.387-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:17.405-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:17.431-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:17.431-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:21:17.475-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:17.474-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:21:17.581-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.215 seconds
+[2023-08-15T19:21:53.338-0300] {processor.py:157} INFO - Started process (PID=31604) to work on /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:53.354-0300] {processor.py:826} INFO - Processing file /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py for tasks to queue
+[2023-08-15T19:21:53.356-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:53.355-0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:53.375-0300] {processor.py:836} INFO - DAG(s) dict_keys(['atividade_aula4']) retrieved from /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py
+[2023-08-15T19:21:53.401-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:53.401-0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-15T19:21:53.442-0300] {logging_mixin.py:150} INFO - [2023-08-15T19:21:53.442-0300] {dag.py:3504} INFO - Setting next_dagrun for atividade_aula4 to 2023-08-15T00:00:00+00:00, run_after=2023-08-16T00:00:00+00:00
+[2023-08-15T19:21:53.650-0300] {processor.py:179} INFO - Processing /home/alan/repos/pipeline_airflow/dags/atividade_aula4.py took 0.318 seconds
